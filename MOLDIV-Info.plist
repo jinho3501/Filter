@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>필터 사진을 촬영하기 위해 카메라 접근이 필요합니다.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>필터 사진을 저장하기 위해 접근이 필요합니다.</string>
+	<key> NSPhotoLibraryAddUsageDescription</key>
+	<string>필터 사진을 앨범에 저장하기 위해 접근이 필요합니다.</string>
+</dict>
+</plist>
